@@ -3,13 +3,13 @@
     margin: 0;
 }
 
-
+/* navbar */
 header {
     background-color: white;
-    padding: 2px;
+    padding: 10px;
     display: flex;
-    align-items: left;
-    margin-top: 10px;
+    align-items: center;
+    margin-top: 2px;
     
   }
   .logo img{
@@ -21,7 +21,7 @@ header {
 nav ul {
     
     list-style: none;
-    margin: 10px;
+    margin: 0;
     padding: 0;
     overflow-x: visible;
     font-family: 'Gill Sans', 'Gill Sans MT',' Calibri', 'Trebuchet MS', sans-serif;
@@ -305,5 +305,4 @@ nav ul li a:hover {
   }
   
   
-
 
