@@ -97,8 +97,8 @@ nav ul li a:hover {
  
  .middle-part{
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: space-evenly;
+/*   align-items: center; */
   flex-wrap: wrap;
   margin-top: 52px;
   margin-bottom: 66px;
