@@ -133,8 +133,8 @@ nav ul li a:hover {
 
 .cards{
     display: flex;
-    margin-left: 103px;
-    margin-right: 10px;
+   margin-left: 57px;
+    margin-right: -56px;
     flex-wrap: wrap;
     justify-content: flex-start;
     margin-bottom: 204px;
